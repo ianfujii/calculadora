@@ -77,9 +77,9 @@ function flushOperation(intBuffer){
 
 function handleNumber(numberString){
     if(buffer === '0'){
-        buffer = numberString.
+        buffer = numberString
     }else{
-        buffer += numberString.
+        buffer += numberString
     }
 }
 
